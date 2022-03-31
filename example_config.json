@@ -1,0 +1,6 @@
+{
+    "username": "subsonic_username",
+    "password": "subsonic_password",
+    "subsonsic_url": "http://<your_server_including_port>",
+    "playlist_file": "playlists.json"
+}
